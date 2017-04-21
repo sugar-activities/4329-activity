@@ -1,0 +1,14 @@
+[Activity]
+
+name = FileMix
+
+bundle_id = org.laptop.FileMix
+icon = activity-filemix
+
+activity_version = 10
+
+host_version = 1
+
+show_launcher = yes
+exec = sugar-activity filemix.FileMix
+license = CC-by-SA 3.0
